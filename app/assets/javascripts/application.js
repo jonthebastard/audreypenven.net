@@ -15,4 +15,4 @@
 //= require featherlight
 //= require featherlight-gallery
 //= require turbolinks
-//= require featherlight-photos
+//= require_tree .
